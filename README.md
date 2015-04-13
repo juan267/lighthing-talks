@@ -1,3 +1,5 @@
+#Lighthing Talks
+
 Lightning talks are 4~5 minute talks covering a topic or answering a question.
 Because you only have 4~5 minutes, you must prioritize what is the most important
 part of a topic.
@@ -13,23 +15,23 @@ cloned then pull the latest version of master).
 5. Submit a pull request!  (and get someone else to merge it)
 
 
-# Week 1 Lightning Talks
+## Week 1 Lightning Talks
 
-## wednesday: JS basics!
+### wednesday: JS basics!
 
 -  function foo() {} vs var foo = function() {}
 - == vs === 
 - variable scope and shadowing
 - debugger
 
-## Thursday: Goddamn it, JavaScript.
+### Thursday: Goddamn it, JavaScript.
 
 - when do I need a semicolon? 
 - why do you pass false to .addEventListener() as its third argument?
 - traversing the DOM in vanilla JavaScript without querySelector or querySelectorAll 
 - ECMAScript
 
-## Friday: JavaScript under the hood.
+### Friday: JavaScript under the hood.
 
 - hoisting - Tina
 - .call() and .apply() - Mark P
@@ -38,7 +40,7 @@ cloned then pull the latest version of master).
 
 # Resources 
 
-#### JavaScript
+### JavaScript
 
 - [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - in particular: 'Working With Objects'
 - [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
@@ -51,14 +53,14 @@ cloned then pull the latest version of master).
 - [exercism.io JavaScript](exercism.io/setup/javascript)
 - [JavaScript Prototype](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
 
-#### JavaScript Frameworks and Libraries
+### JavaScript Frameworks and Libraries
 
 - [UnderscoreJS](http://underscorejs.org/)
 - [jQuery](http://jquery.com/)
 - [Node](http://nodejs.org)
 - [MustacheJS](https://github.com/defunkt/mustache)
 
-#### Debugging JavaScript
+### Debugging JavaScript
 
 - Codeschool: [Dev Tools Course](https://www.codeschool.com/courses/discover-devtools)
 - [Debug with Node](http://nodejs.org/api/debugger.html)
