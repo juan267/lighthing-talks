@@ -35,9 +35,10 @@ cloned then pull the latest version of master).
 
 - hoisting
 - .call() and .apply()
-- .bind() - CM
+- .bind() 
 - event delegation
-# Resources 
+
+###Resources
 
 ### JavaScript
 
