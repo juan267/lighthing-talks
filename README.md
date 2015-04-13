@@ -36,7 +36,7 @@ cloned then pull the latest version of master).
 - hoisting
 - .call() and .apply()
 - .bind() 
-- event delegation
+- event delegation - El Alejo
 
 ###Resources
 
