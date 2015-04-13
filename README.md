@@ -21,7 +21,7 @@ cloned then pull the latest version of master).
 
 -  function foo() {} vs var foo = function() {}
 - == vs === 
-- variable scope and shadowing
+- variable scope and shadowing Juancho
 - debugger
 
 ### Thursday: Goddamn it, JavaScript.
@@ -35,7 +35,7 @@ cloned then pull the latest version of master).
 
 - hoisting
 - .call() and .apply()
-- .bind() - CM
+- .bind() - CM Juancho
 - event delegation
 # Resources 
 
