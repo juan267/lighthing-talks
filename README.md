@@ -20,13 +20,13 @@ cloned then pull the latest version of master).
 ### wednesday: JS basics!
 
 -  function foo() {} vs var foo = function() {}
-- == vs === 
+- == vs === //Hugo E
 - variable scope and shadowing
 - debugger
 
 ### Thursday: Goddamn it, JavaScript.
 
-- when do I need a semicolon? 
+- when do I need a semicolon? //Hugo E
 - why do you pass false to .addEventListener() as its third argument?
 - traversing the DOM in vanilla JavaScript without querySelector or querySelectorAll 
 - ECMAScript
