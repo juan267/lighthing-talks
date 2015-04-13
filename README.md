@@ -20,13 +20,13 @@ cloned then pull the latest version of master).
 ### wednesday: JS basics!
 
 -  function foo() {} vs var foo = function() {}
-- == vs === 
-- variable scope and shadowing Juancho
-- debugger
+- == vs === //Hugo E
+- variable scope and shadowing
+- debugger Marcela
 
 ### Thursday: Goddamn it, JavaScript.
 
-- when do I need a semicolon? 
+- when do I need a semicolon? //Hugo E
 - why do you pass false to .addEventListener() as its third argument?
 - traversing the DOM in vanilla JavaScript without querySelector or querySelectorAll 
 - ECMAScript
@@ -36,7 +36,7 @@ cloned then pull the latest version of master).
 - hoisting
 - .call() and .apply()
 - .bind() - CM Juancho
-- event delegation
+- event delegation - El Alejo
 
 ###Resources
 
