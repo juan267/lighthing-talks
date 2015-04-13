@@ -37,7 +37,8 @@ cloned then pull the latest version of master).
 - .call() and .apply()
 - .bind() - CM Juancho
 - event delegation
-# Resources 
+
+###Resources
 
 ### JavaScript
 
