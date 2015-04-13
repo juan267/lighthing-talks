@@ -33,11 +33,10 @@ cloned then pull the latest version of master).
 
 ### Friday: JavaScript under the hood.
 
-- hoisting - Tina
-- .call() and .apply() - Mark P
+- hoisting
+- .call() and .apply()
 - .bind() - CM
-- event delegation - Anna Woohooooo
-
+- event delegation
 # Resources 
 
 ### JavaScript
