@@ -21,7 +21,7 @@ cloned then pull the latest version of master).
 
 -  function foo() {} vs var foo = function() {}
 - == vs === //Hugo E
-- variable scope and shadowing
+- variable scope and shadowing Juancho
 - debugger Marcela
 
 ### Thursday: Goddamn it, JavaScript.
