@@ -33,7 +33,7 @@ cloned then pull the latest version of master).
 
 ### Friday: JavaScript under the hood.
 
-- hoisting
+- hoisting -- niels Friday! 
 - .call() and .apply()
 - .bind() - CM Juancho
 - event delegation - El Alejo
